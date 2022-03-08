@@ -11,9 +11,6 @@ class prod_of_numb
    // n=sc.nextInt();
    
 for(n=1;n<=10;n++){
-    
-
-    
     i=m*n;
    System.out.println("Product of the numbers: " +i);
    }
