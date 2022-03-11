@@ -17,15 +17,12 @@ public class Count_even_odd_array
             {
                 System.out.println("even number "+a[i]);
                 ceven++;
-                
             }
             else
             {
                 System.out.println("odd number "+a[i]);
                 codd++;
-                
             }
-            
         }
         System.out.println("total even"+ceven);
         System.out.println("total odd"+codd);
