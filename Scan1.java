@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class scan1
+class Scan1
 {
     public static void main(String args[])
     {
