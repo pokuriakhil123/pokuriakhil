@@ -1,5 +1,5 @@
 import java.util.*;
-public class decc_sort_array
+public class Decc_Sort_Array
 {
     public static void main(String args[])
     {
