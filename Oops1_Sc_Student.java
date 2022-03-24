@@ -37,7 +37,7 @@ class Student
     }
     
 }
-class oops1_sc_student
+class Oops1_Sc_Student
 {
     public static void main(String args[])
     {
