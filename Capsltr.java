@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class capsltr
+class Capsltr
 {
     public static void main(String args[])
     {
