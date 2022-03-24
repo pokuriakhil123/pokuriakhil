@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class div5and2
+class Div5and2
 {
     public static void main(String args[])
     {
