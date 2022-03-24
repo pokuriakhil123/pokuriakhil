@@ -1,5 +1,5 @@
 import java.util.*;
-public class big2_sort_array
+public class Big2_Sort_Array
 {
     public static void main(String args[])
     {
