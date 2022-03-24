@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sum_of_even 
+class Sum_Of_Even 
 {
   public static void main(String[] args) 
   {
