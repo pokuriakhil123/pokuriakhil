@@ -1,5 +1,5 @@
 import java.util.*;
-public class max_min_array
+public class Max_Min_Array
 {
     public static void main(String args[])
     {
