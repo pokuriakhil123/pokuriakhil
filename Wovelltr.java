@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class wovelltr
+class Wovelltr
 {
     public static void main(String args[])
     {
