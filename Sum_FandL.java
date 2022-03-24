@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sum_fandl
+class Sum_FandL
 {
     public static void main(String args[])
     {
