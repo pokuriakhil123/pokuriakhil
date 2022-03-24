@@ -10,7 +10,7 @@ class factorial
         System.out.println(fact);
     }
 }
-class factorial_oops
+class Factorial_oops
 {
     public static void main(String args[])
     {
