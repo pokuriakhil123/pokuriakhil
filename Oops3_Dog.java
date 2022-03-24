@@ -17,7 +17,7 @@ class Dog
     }
     
 }
-class oops3_Dog
+class Oops3_Dog
 {
     public static void main(String args[])
     {
