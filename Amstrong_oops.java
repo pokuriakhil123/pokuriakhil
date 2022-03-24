@@ -20,7 +20,7 @@ class amstrong
         }
     }
 }
-class amstrong_oops
+class Amstrong_oops
 {
     public static void main(String args[])
     {
