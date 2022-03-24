@@ -1,4 +1,4 @@
-class all_ascii 
+class All_Ascii 
 {
   public static void main(String[] args) 
   {
