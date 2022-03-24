@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class manynotes
+class ManyNotes
 {
     public static void main(String args[])
     {
