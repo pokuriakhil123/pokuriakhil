@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class mark_per
+class Mark_Per
 {
     public static void main(String args[])
     {
