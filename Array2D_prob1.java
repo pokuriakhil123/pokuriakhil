@@ -1,5 +1,5 @@
 import java.util.*;
-public class array2D_prob1
+public class Array2D_prob1
 {
     public static void main(String args[])
     {
