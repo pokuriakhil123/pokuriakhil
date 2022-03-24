@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class prod_fandl
+class Prod_FandL
 {
     public static void main(String args[])
     {
