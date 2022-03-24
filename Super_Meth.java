@@ -30,7 +30,7 @@ class Bike extends Auto{
        super.running();
     }
 }
-class super_meth
+class Super_Meth
 {
     public static void main(String args[]){
     Bike b=new Bike();
