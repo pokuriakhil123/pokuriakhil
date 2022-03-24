@@ -1,5 +1,5 @@
 import java.util.*;
-public class strong_no
+public class Strong_No
 {
     public static void main(String[] args)
     {
