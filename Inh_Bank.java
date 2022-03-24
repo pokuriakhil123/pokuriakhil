@@ -59,7 +59,7 @@ class currentacc extends bank
         System.out.println("balance : "+balance+"\ndeposit : "+deposit+"\nwithdraw : "+withdraw);
     }
 }
-class inh_bank
+class Inh_Bank
 {
     public static void main(String args[])
     {
