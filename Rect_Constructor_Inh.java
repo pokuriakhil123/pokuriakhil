@@ -22,7 +22,7 @@ Square(double side)
 super(side,side);
 }
 }
-class rect_constructor_inh
+class Rect_Constructor_Inh
 {
 public static void main(String args[])
 {
