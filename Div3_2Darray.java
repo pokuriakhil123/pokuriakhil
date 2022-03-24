@@ -1,5 +1,5 @@
 import java.util.*;
-public class div3_2Darray
+public class Div3_2Darray
 {
     public static void main(String args[])
     {
