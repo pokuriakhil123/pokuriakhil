@@ -1,5 +1,5 @@
 import java.util.*;
-public class even_odd_array
+public class Even_Odd_Array
 {
     public static void main(String args[])
     {
