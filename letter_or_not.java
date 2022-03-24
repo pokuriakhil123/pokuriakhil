@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class letter_or_not
+class Letter_Or_Not
 {
     public static void main(String args[])
     {
