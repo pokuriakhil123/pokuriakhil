@@ -14,7 +14,7 @@ class Project extends Exam
 {
     float project_marks;
 }
-class inh3_multilvl_std 
+class Inh3_Multilvl_Std 
 {
     public static void main(String args[])
     {
