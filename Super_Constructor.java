@@ -19,7 +19,7 @@ class Auto extends Vehicle{
   
 }
 
-class super_constructor
+class Super_Constructor
 {
     public static void main(String args[]){
     Auto a=new Auto();
