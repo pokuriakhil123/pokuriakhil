@@ -1,5 +1,5 @@
 import java.util.*;
-class copy_array
+class Copy_Array
 {
     public static void main(String args[])
     {
