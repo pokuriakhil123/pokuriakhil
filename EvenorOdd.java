@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class evenorodd
+class EvenorOdd
 {
     public static void main(String args[])
     {
