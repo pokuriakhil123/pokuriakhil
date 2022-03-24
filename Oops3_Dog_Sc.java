@@ -32,7 +32,7 @@ class Dog
     }
     
 }
-class oops3_Dog_sc
+class Oops3_Dog_Sc
 {
     public static void main(String args[])
     {
