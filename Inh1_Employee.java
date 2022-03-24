@@ -28,7 +28,7 @@ return pf;
 }
 }
 
-class inh1_employee
+class Inh1_Employee
 {
 public static void main(String args[])
 {
