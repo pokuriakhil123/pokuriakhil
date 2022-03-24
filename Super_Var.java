@@ -17,7 +17,7 @@ class Auto extends Vehicle
         System.out.println("Auto Is Running Fast !..");
     }
 }
-class super_var{
+class Super_Var{
     public static void main(String args[]){
     Auto a=new Auto();
     a.color="red";
