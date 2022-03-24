@@ -22,7 +22,7 @@ void display1()
 System.out.println(super.color);
 }
 }
-class inh_var_animal
+class Inh_Var_Animal
 {
 public static void main(String args[])
 {
