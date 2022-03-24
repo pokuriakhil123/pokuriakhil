@@ -1,4 +1,4 @@
-class tot_even 
+class Tot_Even 
 {
   public static void main(String[] args) 
   {
