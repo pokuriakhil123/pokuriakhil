@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class prod_of_numb 
+class Prod_Of_Numb 
 {
   public static void main(String[] args) 
   {
