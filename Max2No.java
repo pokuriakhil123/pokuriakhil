@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class max2no
+class Max2No
 {
     public static void main(String args[])
     {
