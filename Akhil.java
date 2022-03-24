@@ -1,5 +1,5 @@
 
-class akhil
+class Akhil
 {
     public static void main(String args[])
     {
