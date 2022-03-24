@@ -32,7 +32,7 @@ class student
     }
     
 }
-class student_marks
+class Student_Marks
 {
     public static void main(String args[])
     {
