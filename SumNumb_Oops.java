@@ -10,7 +10,7 @@ class Sum
         System.out.println(sum);
     }
 }
-class sumnumb_oops
+class SumNumb_Oops
 {
     public static void main(String args[])
     {
