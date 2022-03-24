@@ -18,7 +18,7 @@ System.out.println((a+d));
 }
 }
 
-class overloading_1
+class Overloading_1
 {
 public static void main(String args[])
 {
