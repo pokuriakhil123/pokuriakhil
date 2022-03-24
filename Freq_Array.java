@@ -1,5 +1,5 @@
 import java.util.*;
-public class freq_array
+public class Freq_Array
 {
     public static void main(String args[])
     {
