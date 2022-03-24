@@ -19,7 +19,7 @@ return da;
 }
 }
 
-class inh2_employee
+class Inh2_Employee
 {
 public static void main(String args[])
 {
