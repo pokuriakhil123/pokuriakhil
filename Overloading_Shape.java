@@ -13,7 +13,7 @@ class shapes
         System.out.println("area of trinagle " +(0.5*s2*s3));
     }
 }
-class overloading_shape
+class Overloading_Shape
 {
     public static void main(String args[])
     {
