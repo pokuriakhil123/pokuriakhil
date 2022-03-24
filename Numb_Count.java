@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class numb_count
+class Numb_Count
 {
     public static void main(String args[])
     {
