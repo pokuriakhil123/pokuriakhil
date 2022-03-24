@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class palindom
+public class Palindom
 {
     public static void main(String[] args)
     {
