@@ -1,4 +1,4 @@
-class allalpha 
+class AllAlpha 
 {
   public static void main(String[] args) 
   {
