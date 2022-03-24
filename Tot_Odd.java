@@ -1,4 +1,4 @@
-class tot_odd 
+class Tot_Odd 
 {
   public static void main(String[] args) 
   {
