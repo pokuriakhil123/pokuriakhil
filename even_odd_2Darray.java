@@ -1,5 +1,5 @@
 import java.util.*;
-public class even_odd_2Darray
+public class Even_Odd_2Darray
 {
     public static void main(String args[])
     {
