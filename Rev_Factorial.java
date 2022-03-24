@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class rev_factorial
+public class Rev_Factorial
 {
     public static void main(String[] args)
     {
