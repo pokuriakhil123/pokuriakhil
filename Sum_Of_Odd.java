@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sum_of_odd 
+class Sum_Of_Odd 
 {
   public static void main(String[] args) 
   {
