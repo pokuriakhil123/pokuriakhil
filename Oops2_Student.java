@@ -21,7 +21,7 @@ class Student
     }
    
 }
-class oops2_student
+class Oops2_Student
 {
     public static void main(String args[]){
     Student std1 = new Student();
