@@ -53,7 +53,7 @@ class student
     }
     
 }
-class student_marks_sc
+class Student_Marks_Sc
 {
     public static void main(String args[])
     {
